@@ -1,0 +1,15 @@
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+npm-debug.log
+
+# n8n
+.n8n/
+n8n_data/
+
+# OS
+.DS_Store
+Thumbs.db
